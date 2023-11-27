@@ -1,7 +1,7 @@
 # Supplu-chian-management-analysis
 
 - Live dashboard : https://www.novypro.com/project/atliq-mart-supply-chain-management-dashboard
-- Iinkedin profile : linkedin.com/in/rahulkumar-prajapati-a0ab8b1b1
+- Linkedin profile : linkedin.com/in/rahulkumar-prajapati-a0ab8b1b1
 
 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁 :
  ATLIQ Mart wants a dashboard for tracking the supply metrics of its products before expanding to other cities. It currently operates in three cities- Ahmedabad, Vadodara and Surat
