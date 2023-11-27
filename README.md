@@ -1,6 +1,6 @@
 # Supplu-chian-management-analysis
 
-- Live dashboard : [https://app.powerbi.com/viewr=eyJrIjoiMTc3YzAwNGMtMjk3ZS00MWRjLTlmZTQtZTVmYTAzYzRjNDMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9](https://app.powerbi.com/view?r=eyJrIjoiMTc3YzAwNGMtMjk3ZS00MWRjLTlmZTQtZTVmYTAzYzRjNDMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- Dashboard : [https://app.powerbi.com/viewr=eyJrIjoiMTc3YzAwNGMtMjk3ZS00MWRjLTlmZTQtZTVmYTAzYzRjNDMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9](https://app.powerbi.com/view?r=eyJrIjoiMTc3YzAwNGMtMjk3ZS00MWRjLTlmZTQtZTVmYTAzYzRjNDMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 - Linkedin profile : www.linkedin.com/in/rahulkumar-prajapati-a0ab8b1b1
   
 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁 :
