@@ -1,4 +1,4 @@
-# Supplu-chian-management-analysis
+# Supply-chian-management-analysis
 
 - Dashboard : [https://app.powerbi.com/viewr=eyJrIjoiMTc3YzAwNGMtMjk3ZS00MWRjLTlmZTQtZTVmYTAzYzRjNDMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9](https://app.powerbi.com/view?r=eyJrIjoiMTc3YzAwNGMtMjk3ZS00MWRjLTlmZTQtZTVmYTAzYzRjNDMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
   
