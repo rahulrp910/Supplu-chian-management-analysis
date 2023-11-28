@@ -6,7 +6,7 @@
   
 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁 :
 AtliQ Mart is currently facing a problem where a few key customers did not extend the annual contract due to service issues.
-ATLIQ Mart wants a dashboard for tracking the supply metrics of its products before expanding to other cities. It currently operates in three cities- Ahmedabad, Vadodara and Surat
+AtLiQ Mart wants a dashboard for tracking the supply metrics of its products before expanding to other cities. It currently operates in three cities- Ahmedabad, Vadodara and Surat.
 
 𝗠𝗲𝘁𝗿𝗶𝗰𝘀 𝗨𝘀𝗲𝗱:-
 - On-time delivery (OT) %
